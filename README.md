@@ -13,4 +13,4 @@
 
 <br>
 
-Just a random teenager posting his stuff on GitHub!
+I currently don't post any projects, but that may very well change in the future! 
