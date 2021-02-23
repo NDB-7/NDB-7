@@ -1,6 +1,6 @@
 ## Hi! I'm Nathan! Here are some languages I code in:
 <a href="https://www.lua.org/">
-  <img align="left" alt="Lua" width="22px" src="https://simpleicons.org/icons/python.lua" />
+  <img align="left" alt="Lua" width="22px" src="https://simpleicons.org/icons/lua.svg" />
 </a>
 <a href="https://swift.org/">
   <img align="left" alt="Swift" width="22px" src="https://simpleicons.org/icons/swift.svg" />
