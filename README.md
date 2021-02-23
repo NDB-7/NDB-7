@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi! I'm Nathan! Here are some languages I code in:
+<a href="https://www.lua.org/">
+  <img align="left" alt="Lua" width="22px" src="https://simpleicons.org/icons/python.lua" />
+</a>
+<a href="https://swift.org/">
+  <img align="left" alt="Swift" width="22px" src="https://simpleicons.org/icons/swift.svg" />
+</a>
 
-<!--
-**Nathanator1/Nathanator1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br>
 
-Here are some ideas to get you started:
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Nathanator1.visitor-badge)
+[![GitHub Nathan](https://img.shields.io/github/followers/Nathanator1?label=follow&style=social)](https://github.com/Nathanator1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+Just a random teenager posting his stuff on GitHub!
