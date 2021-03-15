@@ -14,6 +14,9 @@
 <a href="https://developer.apple.com/documentation/objectivec">
   <img align="left" alt="Objective-C" width="22px" src="https://simpleicons.org/icons/apple.svg" />
 </a>
+
+<br><br>
+
 ## Here are some useful websites if you want to learn to program:
 <a href="https://codecademy.com">
   <img align="left" alt="Objective-C" width="22px" src="https://simpleicons.org/icons/codecademy.svg" />
