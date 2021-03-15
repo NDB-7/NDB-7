@@ -1,4 +1,4 @@
-## Hi! I'm Nathan! Here are some languages/APIs I program in:
+## Hi! I'm Nathan!:
 <a href="https://www.lua.org/">
   <img align="left" alt="Lua" width="22px" src="https://simpleicons.org/icons/lua.svg" />
 </a>
@@ -16,25 +16,6 @@
 </a>
 <a href="https://www.apple.com/ios/">
   <img align="left" alt="iOS" width="22px" src="https://simpleicons.org/icons/ios.svg" />
-</a>
-
-<br><br>
-
-## Here are some useful websites if you want to learn to program:
-<a href="https://codecademy.com">
-  <img align="left" alt="Codecademy" width="22px" src="https://simpleicons.org/icons/codecademy.svg" />
-</a>
-<a href="https://freecodecamp.org">
-  <img align="left" alt="freeCodeCamp" width="22px" src="https://simpleicons.org/icons/freecodecamp.svg" />
-</a>
-<a href="https://youtube.com">
-  <img align="left" alt="YouTube" width="22px" src="https://simpleicons.org/icons/youtube.svg" />
-</a>
-<a href="https://udemy.com">
-  <img align="left" alt="Udemy" width="22px" src="https://simpleicons.org/icons/udemy.svg" />
-</a>
-<a href="https://stackoverflow.com/">
-  <img align="left" alt="Stack Overflow" width="22px" src="https://simpleicons.org/icons/stackoverflow.svg" />
 </a>
 
 <br><br>
