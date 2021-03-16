@@ -1,5 +1,5 @@
 ## Hi! I'm Nathan!:
-<a href="https://www.lua.org/">
+<a href="https://ww.lua.org/">
   <img align="left" alt="Lua" width="22px" src="https://simpleicons.org/icons/lua.svg" />
 </a>
 <a href="https://swift.org/">
