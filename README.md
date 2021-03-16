@@ -20,6 +20,9 @@
 <a href="https://www.apple.com/ios/">
   <img align="left" alt="iOS" width="22px" src="https://simpleicons.org/icons/ios.svg" />
 </a>
+<a href="https://www.apple.com/macos/">
+  <img align="left" alt="macOS" width="22px" src="https://simpleicons.org/icons/macos.svg" />
+</a>
 
 <br><br>
 
