@@ -14,11 +14,11 @@
 <a href="https://python.org">
   <img align="left" alt="Python" width="22px" src="https://simpleicons.org/icons/python.svg" />
 </a>
-<a href="https://developer.apple.com/documentation/objectivec">
-  <img align="left" alt="Objective-C" width="22px" src="https://simpleicons.org/icons/apple.svg" />
-</a>
 <a href="https://javascript.com">
   <img align="left" alt="JavaScript" width="22px" src="https://simpleicons.org/icons/javascript.svg" />
+</a>
+<a href="https://developer.apple.com/documentation/objectivec">
+  <img align="left" alt="Objective-C" width="22px" src="https://simpleicons.org/icons/apple.svg" />
 </a>
 <a href="https://www.apple.com/ios/">
   <img align="left" alt="iOS" width="22px" src="https://simpleicons.org/icons/ios.svg" />
