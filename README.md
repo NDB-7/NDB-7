@@ -32,5 +32,3 @@
 <br>
 
 I currently don't post any projects, but that will change soon. I'm planning to release some open-source iOS apps later, so stay tuned for new projects!
-
-2023 update: nvm i don't code anymore
