@@ -1,7 +1,4 @@
-## Hi! I'm Nathan!:
-<a href="https://python.org">
-  <img align="left" alt="Python" width="22px" src="https://simpleicons.org/icons/python.svg" />
-</a>
+## Hello, I'm Nathan!
 <a href="https://javascript.com">
   <img align="left" alt="JavaScript" width="22px" src="https://simpleicons.org/icons/javascript.svg" />
 </a>
