@@ -2,11 +2,11 @@
 <a href="https://javascript.com">
   <img align="left" alt="JavaScript" width="22px" src="https://simpleicons.org/icons/javascript.svg" />
 </a>
-<a href="https://www.apple.com/ios/">
-  <img align="left" alt="iOS" width="22px" src="https://simpleicons.org/icons/ios.svg" />
+<a href="https://html.spec.whatwg.org/">
+  <img align="left" alt="HTML5" width="22px" src="https://simpleicons.org/icons/html5.svg" />
 </a>
-<a href="https://swift.org">
-  <img align="left" alt="Swift" width="22px" src="https://simpleicons.org/icons/swift.svg" />
+<a href="https://www.w3.org/TR/CSS/#css">
+  <img align="left" alt="CSS3" width="22px" src="https://simpleicons.org/icons/css3.svg" />
 </a>
 
 <br><br>
