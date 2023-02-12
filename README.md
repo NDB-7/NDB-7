@@ -16,4 +16,4 @@
 
 <br>
 
-I've gotten back into programming as of 2023, and I'm mainly placing my focus on learning JavaScript for web development, later planning to shift my focus on learning Swift for iOS development. I'll be posting projects here in the future, so stay tuned!
+I've gotten back into programming as of 2023, and I'm mainly placing my focus on becoming a full-stack web developer, although I am interested in learning iOS development in the future. I'll be posting my projects later, so stay tuned!
