@@ -11,9 +11,4 @@
 
 <br><br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Nathanator1.visitor-badge)
-[![GitHub Nathan](https://img.shields.io/github/followers/Nathanator1?label=follow&style=social)](https://github.com/Nathanator1)
-
-<br>
-
 I've gotten back into programming as of 2023, and I'm mainly placing my focus on becoming a full-stack web developer, although I am interested in learning iOS development in the future. I'll be posting my projects later, so stay tuned!
