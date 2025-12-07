@@ -1,7 +1,7 @@
 <h1 align="center">👋  Hello, I'm Nathan!</h1>
 
 <h2>📄  About Me</h2>
-<p>I'm a student studying Software Engineering at San José State University. I'm passionate about full-stack development and I'm always looking for opportunities to sharpen my skills and gain experience. Feel free to reach out if you have any opportunities, would like to collaborate on a project, or simply want to talk! 😄</p>
+<p>I'm a student studying Software Engineering at San José State University. I'm passionate about full-stack development, distributed systems, cloud infrastructure, and AI, and I'm always looking for opportunities to sharpen my skills and gain experience. Feel free to reach out if you have any opportunities, would like to collaborate on a project, or simply want to talk! 😄</p>
 
 
 <h2>⚒️  Here's what I'm good with:</h2>
