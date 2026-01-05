@@ -1,10 +1,9 @@
-<h1 align="center">👋  Hello, I'm Nathan!</h1>
+<h1 align="center">Hello, I'm Nathan! 👋</h1>
 
-<h2>📄  About Me</h2>
-<p>I'm a student studying Software Engineering at San José State University. I'm passionate about full-stack development, distributed systems, cloud infrastructure, and AI, and I'm always looking for opportunities to sharpen my skills and gain experience. Feel free to reach out if you have any opportunities, would like to collaborate on a project, or simply want to talk! 😄</p>
+<p>I'm a student studying Software Engineering at San José State University. I'm interested in <strong>full-stack development</strong>, <strong>distributed systems</strong>, <strong>cloud infrastructure</strong>, <strong>SRE</strong>, and <strong>AI</strong>. Feel free to reach out if you want to collaborate, share ideas, or just chat! 🙂</p>
 
 
-<h2>⚒️  Here's what I'm good with:</h2>
+<h2>What I'm comfortable with:</h2>
 
 ### 🌐  General Languages/Frameworks
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
@@ -44,11 +43,13 @@
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 [![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
-[![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)](#)
+[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](#)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
 [![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)](#)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 
 
-<h2>🙌  Thanks for reading!</h2>
-<p>Feel free to take a look at my pinned projects below to see my best work. 🌟</p>
+<h2>Thanks for reading!</h2>
+<p>Check out my pinned projects below to see my best work :)</p>
